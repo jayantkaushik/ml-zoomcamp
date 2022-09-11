@@ -23,5 +23,5 @@
 |11  | Kubeflow and KFServing                        | Upcoming   |  [LINK EMPTY]()|
 |12  | Capstone Project                              | Upcoming   |  [Capstone Project]|
 |13  | Article                                       | Upcoming   |  [Article]|
-|14  | 3rd Proj                                      | Upcoming   |  [3rd Project]|
+|14  | 3rd Project                                   | Upcoming   |  [3rd Project]|
 
