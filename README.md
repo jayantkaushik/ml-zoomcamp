@@ -6,7 +6,8 @@ Machine Learning Engineering Zoomcamp
 
 
 ![ML ZoomCamp](https://github.com/alexeygrigorev/mlbookcamp-code/raw/master/images/zoomcamp.jpg)
-![Course Link](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+
+[Course Link](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 
 ## Homework Progress:
 | Id | Module Session                                | Completed On    | Link               | 
