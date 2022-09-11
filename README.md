@@ -20,7 +20,7 @@
 |08  | Neural Networks and Deep Learning             | Upcoming   |  [Deep Learning]|
 |09  | Serverless Deep Learning                      | Upcoming   | [Servless]|
 |10  | Kubernetes and TensorFlow-Serving             | Upcoming   |  [Kubernetes]|
-|11  | Kubeflow and KFServing                        | Upcoming   |  [LINK EMPTY]()|
+|11  | Kubeflow and KFServing                        | Upcoming   |  [Kubeflow]|
 |12  | Capstone Project                              | Upcoming   |  [Capstone Project]|
 |13  | Article                                       | Upcoming   |  [Article]|
 |14  | 3rd Project                                   | Upcoming   |  [3rd Project]|
