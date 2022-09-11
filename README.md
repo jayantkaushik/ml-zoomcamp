@@ -1,18 +1,18 @@
 Machine Learning Engineering Zoomcamp
 
-# Homeworks, Midterm, & Capstone Project
+# Homework, Midterm, & Capstone Project
 
 ## Machine Learning Zoomcamp
 
 
 ![ML ZoomCamp](https://github.com/alexeygrigorev/mlbookcamp-code/raw/master/images/zoomcamp.jpg)
-[Course Link](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+![Course Link](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 
-## Homeworks Progress:
+## Homework Progress:
 | Id | Module Session                                | Completed On    | Link               | 
 |----|-----------------------------------------------|-----------------|--------------------|
 |01  | Introduction to Machine Learning              | 11/09/2022   | [Intro](https://github.com/jayantkaushik/ml-zoomcamp/tree/main/01_Intro)  |
-|02  | Machine Learning for Regression               | In progress  | [Regression]()|
+|02  | Machine Learning for Regression               | In progress  | [Regression](#)|
 |03  | Machine Learning for Classification           | Upcoming   | [Classification](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Classification/)|
 |04  | Evaluation Metrics for Classification         | Upcoming   | [Evaluation](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Evaluation/)|
 |05  | Deploying Machine Learning Models             | Upcoming   |  [Deployment](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Deployment/)|
