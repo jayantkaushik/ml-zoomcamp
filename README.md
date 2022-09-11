@@ -1,8 +1,6 @@
-Machine Learning Engineering Zoomcamp
+# Machine Learning Engineering Zoomcamp
 
-# Homework, Midterm, & Capstone Project
-
-## Machine Learning Zoomcamp
+## Homework, Midterm, & Capstone Projects
 
 
 ![ML ZoomCamp](https://github.com/alexeygrigorev/mlbookcamp-code/raw/master/images/zoomcamp.jpg)
