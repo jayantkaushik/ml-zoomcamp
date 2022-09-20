@@ -11,7 +11,7 @@
 | Id | Module Session                                | Completed On    | Link               | 
 |----|-----------------------------------------------|-----------------|--------------------|
 |01  | Introduction to Machine Learning              | 11/09/2022   | [Intro](https://github.com/jayantkaushik/ml-zoomcamp/tree/main/01_Intro)  |
-|02  | Machine Learning for Regression               | In progress  | [Regression]|
+|02  | Machine Learning for Regression               | In progress  | [Regression](https://github.com/jayantkaushik/ml-zoomcamp/blob/main/02_Regression/02_Homework.ipynb)|
 |03  | Machine Learning for Classification           | Upcoming   | [Classification]|
 |04  | Evaluation Metrics for Classification         | Upcoming   | [Evaluation]|
 |05  | Deploying Machine Learning Models             | Upcoming   |  [Deployment]|
